@@ -14,10 +14,10 @@ You can test and run the live circuit simulation directly on Wokwi here:
 
 ## 📸 Circuit Diagram & System Architecture
 <p align="center">
-  <img src="screenshots/diagram_rangkaian.png" width="600" 
+  <img src="penyulingan_otomatis/diagram_rangkaian.png" width="600" 
 </p>
 <p align="center">
-  <img src="screenshots/System_Architecture.png" width="600" 
+  <img src="penyulingan_otomatis/System_Architecture.png" width="600" 
 </p>
 
 ---
